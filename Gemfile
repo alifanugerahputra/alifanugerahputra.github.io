@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-ruby "3.3.9"                # sesuaikan dengan versi rbenv yang kamu pakai (opsional tapi disarankan)
+ruby "3.3.10"                # sesuaikan dengan versi rbenv yang kamu pakai (opsional tapi disarankan)
 
 gem "bundler"
 
