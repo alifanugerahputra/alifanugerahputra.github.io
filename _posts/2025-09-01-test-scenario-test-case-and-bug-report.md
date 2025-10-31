@@ -132,5 +132,3 @@ Nilai ekspektasi BMI telah disesuaikan berdasarkan rumus standar dan pembulatan 
 - **P4 (Rendah):** Masalah visual atau minor, tidak mendesak.
 
 ---
-
-[Slide Presentasi Kelompok 4](https://drive.google.com/file/d/1er2wwoA69y6OFqgGZCR4S9YeQEx0rM6z/view?usp=sharing)

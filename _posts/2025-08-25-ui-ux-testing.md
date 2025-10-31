@@ -86,8 +86,3 @@ Gunakan heuristik berikut sebagai checklist saat meninjau desain:
 4. **Setelah rilis**: kumpulkan analytics & heatmaps → iterasi berdasarkan data.
 
 ---
-
-## Catatan & Sumber
-Materi ini disarikan dari slide presentasi Kelompok 2 (UI/UX Testing). Untuk detail lengkap dan referensi asli, lihat slide di bawah.
-
-[View Group 2 Presentation Slides](https://drive.google.com/file/d/12N-ugshIQSDrLutsQgo-qsxfjeBa3daP/view?usp=sharing)

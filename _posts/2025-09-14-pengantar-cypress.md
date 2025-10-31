@@ -25,10 +25,6 @@ Artikel ini menjelaskan cara instalasi, perintah dasar, contoh pengujian praktis
 
 ---
 
-[Slide Presentasi Kelompok 8](https://drive.google.com/file/d/1lBwmTvmXF0iDxCIX0SbTfTBOQ7-eOLOx/view?usp=sharing)
-
----
-
 ### Contoh Tes Sederhana
 
 1. Tes untuk halaman login

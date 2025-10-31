@@ -35,8 +35,6 @@ Sebagian materi diadaptasi dari slide presentasi kelompok.
 
 > 💡 **Catatan:** Disarankan menggunakan *driver manager* agar tidak perlu mengunduh driver browser secara manual.
 
-[Slide Presentasi Kelompok 7](https://drive.google.com/file/d/1G8XP7xVKPqGMZah4RyEfYVi3NrzOKuCo/view?usp=sharing)
-
 ### Contoh Otomatisasi Dasar (Python)
 
 ```python

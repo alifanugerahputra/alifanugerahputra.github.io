@@ -107,5 +107,3 @@ Definisikan istilah yang digunakan dalam rencana agar semua pemangku kepentingan
 Catat pihak yang harus menyetujui rencana ini, sertakan nama, peran, tanda tangan, dan tanggal sebagai bentuk pelacakan (traceability).
 
 ---
-
-[Slide Presentasi Kelompok 3](https://drive.google.com/file/d/1Pjx6n08veg7o6P-4LjazQCGOx29xH-YS/view?usp=sharing)

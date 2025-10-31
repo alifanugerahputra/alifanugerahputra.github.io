@@ -62,5 +62,3 @@ Berbeda dengan pengujian antarmuka pengguna (*UI testing*), API testing berinter
 - **Timing:** waktu respons untuk pengujian performa.
 
 ---
-
-[Slide Presentasi Kelompok 6](https://drive.google.com/file/d/1b5R0aV7jftn-94nSDdquKrhRcgBoj1v4/view?usp=sharing)

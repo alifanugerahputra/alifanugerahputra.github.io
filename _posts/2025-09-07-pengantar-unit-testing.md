@@ -54,5 +54,3 @@ Slide dari Kelompok 5 juga menampilkan contoh langsung (*live coding*) sederhana
 - Jalankan test **secara otomatis** di sistem CI setiap kali ada *push* atau *pull request*.
 
 ---
-
-[Slide Presentasi Kelompok 5](https://drive.google.com/file/d/1qSDpXubcQlTiRXuM2tdDO30rPo-3GkCS/view?usp=sharing)

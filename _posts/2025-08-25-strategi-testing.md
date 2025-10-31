@@ -76,7 +76,3 @@ Pengujian adalah proses mengevaluasi perangkat lunak untuk menemukan cacat (bug)
 Pengujian adalah bagian esensial dari SDLC untuk memastikan kualitas perangkat lunak. Kombinasi perencanaan yang baik, test case yang tertulis rapi, dan eksekusi terstruktur akan meminimalkan risiko saat rilis.
 
 ---
-
-**Referensi Singkat**: materi presentasi kelompok (Testing — Kelompok 1).
-
-[Lihat Slide Presentasi Kelompok 1](https://drive.google.com/file/d/1bNFmdW8ePz_z0VM0660SZU4meSBaxc9c/view?usp=sharing)
